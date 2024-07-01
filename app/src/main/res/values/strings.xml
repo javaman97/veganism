@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Veganism</string>
+    <string-array name="food_allergies">
+        <item>Peanuts</item>
+        <item>Almonds</item>
+        <item>Walnuts</item>
+        <item>Cashews</item>
+        <item>Pecans</item>
+        <item>Pistachios</item>
+        <item>Hazelnuts</item>
+        <item>Brazil nuts</item>
+        <item>Macadamia nuts</item>
+        <item>Pine nuts</item>
+        <item>Cow\'s milk</item>
+        <item>Goat\'s milk</item>
+        <item>Sheep\'s milk</item>
+        <item>Eggs</item>
+        <item>Soy</item>
+        <item>Wheat</item>
+        <item>Barley</item>
+        <item>Rye</item>
+        <item>Oats</item>
+        <item>Fish</item>
+        <item>Salmon</item>
+        <item>Tuna</item>
+        <item>Cod</item>
+        <item>Halibut</item>
+        <item>Shellfish</item>
+        <item>Shrimp</item>
+        <item>Crab</item>
+        <item>Lobster</item>
+        <item>Crayfish</item>
+        <item>Oysters</item>
+        <item>Clams</item>
+        <item>Mussels</item>
+        <item>Scallops</item>
+        <item>Squid</item>
+        <item>Octopus</item>
+        <item>Sesame</item>
+        <item>Mustard</item>
+        <item>Celery</item>
+        <item>Sulphites</item>
+        <item>Lupin</item>
+        <item>Corn</item>
+        <item>Gluten</item>
+        <item>Lactose</item>
+        <item>Strawberries</item>
+        <item>Raspberries</item>
+        <item>Blackberries</item>
+        <item>Blueberries</item>
+        <item>Kiwi</item>
+        <item>Peaches</item>
+        <item>Apples</item>
+        <item>Pears</item>
+        <item>Cherries</item>
+        <item>Plums</item>
+        <item>Apricots</item>
+        <item>Nectarines</item>
+        <item>Avocado</item>
+        <item>Bananas</item>
+        <item>Pineapple</item>
+        <item>Mango</item>
+        <item>Papaya</item>
+        <item>Coconut</item>
+        <item>Tomatoes</item>
+        <item>Garlic</item>
+        <item>Onions</item>
+        <item>Leeks</item>
+        <item>Chives</item>
+        <item>Peppers</item>
+        <item>Bell peppers</item>
+        <item>Chili peppers</item>
+        <item>Spices</item>
+        <item>Cinnamon</item>
+        <item>Ginger</item>
+        <item>Cumin</item>
+        <item>Coriander</item>
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Chicken</item>
+        <item>Turkey</item>
+        <item>Lamb</item>
+        <item>Duck</item>
+        <item>Gelatin</item>
+        <item>Carrot</item>
+        <item>Potato</item>
+        <item>Sweet potato</item>
+        <item>Pumpkin</item>
+        <item>Squash</item>
+        <item>Zucchini</item>
+        <item>Eggplant</item>
+        <item>Mushrooms</item>
+        <item>Lentils</item>
+        <item>Chickpeas</item>
+        <item>Peas</item>
+        <item>Beans</item>
+        <item>Cocoa</item>
+        <item>Chocolate</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Vanilla</item>
+        <item>Honey</item>
+        <item>Yeast</item>
+        <item>Sunflower seeds</item>
+        <item>Pumpkin seeds</item>
+        <item>Poppy seeds</item>
+        <item>Chia seeds</item>
+        <item>Flaxseed</item>
+        <item>Buckwheat</item>
+        <item>Quinoa</item>
+        <item>Tapioca</item>
+        <item>Malt</item>
+        <item>Citrus fruits</item>
+        <item>Oranges</item>
+        <item>Lemons</item>
+        <item>Limes</item>
+        <item>Grapefruits</item>
+    </string-array>
+</resources>
