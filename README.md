@@ -12,4 +12,4 @@ use the lock to open the key. then you will have reached the flag.
 ### flag:
 lock
 #### feature:
-key
+key : value
